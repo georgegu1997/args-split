@@ -15,11 +15,11 @@
     "commands": [
       {
         "command": "args-split.splitArgs",
-        "title": "Split args"
+        "title": "Args Split: cmd line to list"
       },
       {
         "command": "args-split.joinArgs",
-        "title": "Join args"
+        "title": "Args Split: list to cmd line"
       }
     ]
   },
